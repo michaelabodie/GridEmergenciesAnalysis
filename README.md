@@ -1,1 +1,1 @@
-# GridEmergenciesAnalysis
+The attached report and presentation on Shiny Apps demonstrates an analysis of renewable resources and the role they play in the cause of power outages. R was utilized for all of the analysis. The report explains in detail our inferential analysis and results, as well as an abstract and introduction of our project. The dataset utilized is also described in the report and presentation. This was a collaborative project completed by my classmate Chad Kite and I.
